@@ -3,9 +3,9 @@
 A simple GraphQL API built with **Apollo Server** and **Node.js**.  
 This demonstrates how to define schemas, write resolvers, and use queries/mutations to manage data.  
 For simplicity, the data is stored in an in-memory database (`db.js`).  
-```
+
 With **Apollo Server**, you also get a built-in testing environment (Apollo Sandbox) where you can easily run queries and mutations without needing any external tools.
-```
+
 ---------------------------------------------------------------------------------------------------------------------------------
  Features
 ```
