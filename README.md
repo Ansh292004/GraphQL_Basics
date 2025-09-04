@@ -6,11 +6,11 @@ This demonstrates how to define schemas, write resolvers, and use queries/mutati
 For simplicity, the data is stored in an in-memory database (db.js).
 -------------------------------------------------------------------------------------------------------------------------------------------
  Features--------------
-
+```
  ->Query all games, reviews, and authors
  ->Fetch a single game/review/author by ID
  ->Mutations: add, update, and delete games
-```
+
 ## Structure
 📦 diveGraph
  ┣ 📜 index.js       # Apollo Server + resolvers
@@ -23,10 +23,10 @@ For simplicity, the data is stored in an in-memory database (db.js).
 🛠️ Setup & Run
 
 1.Clone the repository:
-
+```
 ->git clone https://github.com/your-username/diveGraph.git
 ->cd diveGraph
-
+```
 
 2.Install dependencies:
 
@@ -44,4 +44,4 @@ For simplicity, the data is stored in an in-memory database (db.js).
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Server runs at:
-👉 http://localhost:8000
+👉 http://localhost:PORT
