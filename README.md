@@ -3,8 +3,8 @@
 A simple GraphQL API built with Apollo Server and Node.js.
 This project demonstrates how to define schemas, write resolvers, and use queries and mutations to manage data.
 For simplicity, the data is stored in an in-memory database (db.js).
--------------------------------------------------------------------------------------------------------------------------------------------
- Features--------------
+---------------------------------------------------------------------------------------------------------------------------------
+ Features
 ```
  ->Query all games, reviews, and authors
  ->Fetch a single game/review/author by ID
