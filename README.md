@@ -23,8 +23,8 @@ For simplicity, the data is stored in an in-memory database (db.js).
 
 1.Clone the repository:
 ```
-->git clone https://github.com/your-username/diveGraph.git
-->cd diveGraph
+->git clone https://github.com/Ansh292004/GraphQL_Basics.git
+->cd GraphQL_Basics
 ```
 
 2.Install dependencies:
