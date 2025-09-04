@@ -20,12 +20,12 @@ For simplicity, the data is stored in an in-memory database (db.js).
 ```
 ------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Setup & Run
-
-1.Clone the repository:
 ```
+1.Clone the repository:
+
 ->git clone https://github.com/Ansh292004/GraphQL_Basics.git
 ->cd GraphQL_Basics
-```
+
 
 2.Install dependencies:
 
@@ -40,6 +40,7 @@ For simplicity, the data is stored in an in-memory database (db.js).
 4>Start the server:
 
 ->node index.js
+```
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Server runs at:
