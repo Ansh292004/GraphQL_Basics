@@ -1,4 +1,4 @@
-```
+
 🎮 GraphQL Games API
 
 A simple GraphQL API built with Apollo Server and Node.js.
@@ -10,7 +10,7 @@ For simplicity, the data is stored in an in-memory database (db.js).
  ->Query all games, reviews, and authors
  ->Fetch a single game/review/author by ID
  ->Mutations: add, update, and delete games
-
+```
 ## Structure
 📦 diveGraph
  ┣ 📜 index.js       # Apollo Server + resolvers
@@ -18,6 +18,7 @@ For simplicity, the data is stored in an in-memory database (db.js).
  ┣ 📜 db.js          # In-memory mock database
  ┣ 📜 package.json
  ┗ 📜 .env           # Environment variables
+```
 ------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Setup & Run
 
