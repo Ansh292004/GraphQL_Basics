@@ -14,12 +14,12 @@ With **Apollo Server**, you also get a built-in testing environment (Apollo Sand
  ->Mutations: add, update, and delete games
 
 ## Structure
-📦 diveGraph
- ┣ 📜 index.js       # Apollo Server + resolvers
- ┣ 📜 schema.js      # GraphQL type definitions
- ┣ 📜 db.js          # In-memory mock database
- ┣ 📜 package.json
- ┗ 📜 .env           # Environment variables
+diveGraph
+ ┣ index.js       # Apollo Server + resolvers
+ ┣ schema.js      # GraphQL type definitions
+ ┣ db.js          # In-memory mock database
+ ┣ package.json
+ ┗ .env           # Environment variables
 ```
 ------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Setup & Run
