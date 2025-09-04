@@ -1,4 +1,4 @@
-#*GraphQL Games API*
+# *GraphQL Games API*
 
 A simple GraphQL API built with Apollo Server and Node.js.
 This project demonstrates how to define schemas, write resolvers, and use queries and mutations to manage data.
