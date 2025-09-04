@@ -13,8 +13,9 @@ With **Apollo Server**, you also get a built-in testing environment (Apollo Sand
  ->Fetch a single game/review/author by ID
  ->Mutations: add, update, and delete games
 
-## Structure
-diveGraph
+## Structure 
+
+GraphQL_Basics
  ┣ index.js       # Apollo Server + resolvers
  ┣ schema.js      # GraphQL type definitions
  ┣ db.js          # In-memory mock database
